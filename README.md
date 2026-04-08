@@ -20,9 +20,6 @@
 <a href="https://github.com/KEV0143/Comparative-analysis-of-hourly-load-forecasting-using-PatchTST-TFT-NHiTS-and-CatBoost/stargazers"><img src="https://img.shields.io/github/stars/KEV0143/Comparative-analysis-of-hourly-load-forecasting-using-PatchTST-TFT-NHiTS-and-CatBoost?style=flat-square&color=yellow" alt="Stars"></a>
 </p>
 
-<a style="text-decoration: none;">
-  <img width="150" alt="MIREA_Gerb_Colour" src="https://github.com/user-attachments/assets/85543a73-749a-484f-9446-79413a36a8ce" />
-</a>
 <br>
 <br>
 
